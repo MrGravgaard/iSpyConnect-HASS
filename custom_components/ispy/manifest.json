@@ -1,0 +1,8 @@
+{
+    "domain": "ispy",
+    "name": "iSpyConnect custom component",
+    "documentation": "https://github.com/MrGravgaard/iSpyConnect-HASS",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@mrgravgaard"]
+}
